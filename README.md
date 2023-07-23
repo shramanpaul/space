@@ -1,4 +1,5 @@
-## Getting Started with my-space-app
+## Getting Started with my-space-app 🛰️
+
 
 Welcome to my-space-app! This repository contains the source code for our space project, designed to [provide a brief description of the project's main objectives and purpose]. This guide will help you set up the project locally and get started with development. Let's get you up and running!
 
